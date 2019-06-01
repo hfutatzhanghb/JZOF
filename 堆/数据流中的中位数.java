@@ -2,6 +2,10 @@ package com.zhb.jzof;
 
 import java.util.PriorityQueue;
 import java.util.Comparator;
+
+//1.使用ArrayList插入时排序
+//2.使用最大堆和最小堆。JAVA默认的堆是最小堆
+
 public class 数据流中的中位数 {
     public static void main(String[] args) {
 
